@@ -2,26 +2,26 @@
   "schema": "qrscan-http-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "955df46d3cc621d773fc82c62d6ad0f2fbe6c0cf"
+    "revision": "383aa3d6448678af30e78440b86df7ee623f76de"
   },
   "files": {
     ".do/deploy.template.yaml": "bd3ff0f33dd1df634362957d31bea3b19e4e54b2322c01cbd899b89b20165421",
     ".dockerignore": "4bbfd46d0d8eac20ad67bb58205f37615347d076ef8691ec913415cadbe34e6f",
     ".github/workflows/test.yml": "b452c4e3cb8707b87545045693c6ae4abaf996a96abf4483734f85c3598707aa",
-    "Dockerfile": "c8c7e61092b419e5a1ec84a41390d9ed82c266718b7b8b26d1f0e2507dc66f1b",
+    "Dockerfile": "93f8d53a68923e20d16667bb68471e98e165d77faed1fac1edce4a40fb39c58a",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "LICENSE-NOTES.md": "070ab313ef25336ee20dae7d8f1ab3620c5aaa75c5f3017dc366fe6ec6ab6201",
-    "README.md": "29d264ec8156b6a7ecf442a1135c663abf408a234ee9433f4984c709acc8c594",
-    "licenses/engine-0.11.0/LICENSE-APACHE-2.0": "865b180617725f20be71aa305e82efaa8e56b3c6936d68089bc63cf91cb23087",
-    "licenses/engine-0.11.0/THIRD-PARTY.md": "e3c3e5d7b5f2e2d880fa39216658df0f84f0de297dd211b65d38373e8e7c6a4a",
-    "media/scan-report.png": "5dc9db731d60e6dec4492a5553f05c35c8ee8b6e190f56104fa2f41ddc565158",
-    "media/upload-page.png": "27dff6429828c8524b2fdb7e3129859955946162230edb7dc4d92a4be27d9e38",
-    "package-lock.json": "9f5d2aa4b6bb48b81fc5b4227b8a3cfe3aba0bf8a9985837a07efebb9766ad33",
-    "package.json": "4d1db25f58cfbfd4b82357c9c7d981f1cf6d437ab3fd640c20eabca4cf7b036f",
+    "LICENSE-NOTES.md": "6846611953bcf93d9d11ef54c4dc2f9b389fa4fb5d978dc60741599939922090",
+    "README.md": "b2cbea0dd0d199dcecb8e13f6ac15a040c264eac336d16a4c7d7bb730ed0ca45",
+    "licenses/engine-0.12.0/LICENSE-APACHE-2.0": "865b180617725f20be71aa305e82efaa8e56b3c6936d68089bc63cf91cb23087",
+    "licenses/engine-0.12.0/THIRD-PARTY.md": "542c2d99262bf4215de4de3d7e1a6e8b065b934b61ccb650dd82d2c4f96a71ab",
+    "media/scan-report.png": "d6b2fd321ed11e5cfa3b1deb790018d6e88df3c57ac4f9262dc08f48415c4594",
+    "media/upload-page.png": "77ca494ee1224accc6cc30427754b94c60bf30efea8ebf1e643afd48fed3922c",
+    "package-lock.json": "9b4d7c561a2bd78e1d6dc8e624fb97aeecbd812cf369a07b061d5f5132d4595b",
+    "package.json": "d099b0809c2fb009b89ee445b783190a1e96ebf6b8cc4768adde2c56322ed1c7",
     "render.yaml": "e8dac8160932358bb338bd53a1c97248b14e469658f7ec6e9ae90482e2e27956",
-    "server.mjs": "8c490d8033c4b203f5b809ba23294808e81969e77d19a5f558e2225709ebffa1",
-    "test/consumer.mjs": "8e22a403f7377e2904388b2147f05f0b9ff8ce76cf3a53dd7b4aedbc00f0a93f",
+    "server.mjs": "be8393d36ed8ca5d7eeb62eb45eddae835ff390b85fc553c7ffc88870e3f1ef4",
+    "test/consumer.mjs": "ee5cf8f34e7edc25db116ff21b13355d6f682b48974461b00a560864cab74066",
     "test/fixtures/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
-    "test/server.test.mjs": "392c660ec89305adf4580654fd47a3ea1cef46f99e009267312993a81445a668"
+    "test/server.test.mjs": "5b61e3ba9a1cb6e9a87f46c18baa5546902d09d882630b3ddf155024a63e85f0"
   }
 }
