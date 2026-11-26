@@ -2,7 +2,7 @@
   "schema": "qrscan-http-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "9160d3afe409bab1c00b867567f53bcedf1baa50"
+    "revision": "ba2de41049033e8cf6e0d4e449839854108895c0"
   },
   "files": {
     ".do/deploy.template.yaml": "bd3ff0f33dd1df634362957d31bea3b19e4e54b2322c01cbd899b89b20165421",
@@ -11,7 +11,7 @@
     "Dockerfile": "f3b81928c5114e07e40700b0e1ed144602cadca80579acad1b0517c2ccac1895",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
     "LICENSE-NOTES.md": "6846611953bcf93d9d11ef54c4dc2f9b389fa4fb5d978dc60741599939922090",
-    "README.md": "6ee9c5f25258561c8dc02436ecd669a1b6f7ed8bf2b6a45e1fc25bb2cad50dc4",
+    "README.md": "32f918c078333b38c101beda91e88032300b2fc2029c5d3f856d678ff6dadc2b",
     "licenses/engine-0.12.0/LICENSE-APACHE-2.0": "865b180617725f20be71aa305e82efaa8e56b3c6936d68089bc63cf91cb23087",
     "licenses/engine-0.12.0/THIRD-PARTY.md": "542c2d99262bf4215de4de3d7e1a6e8b065b934b61ccb650dd82d2c4f96a71ab",
     "media/scan-report.png": "d6b2fd321ed11e5cfa3b1deb790018d6e88df3c57ac4f9262dc08f48415c4594",
