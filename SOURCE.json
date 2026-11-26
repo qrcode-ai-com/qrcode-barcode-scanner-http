@@ -2,26 +2,26 @@
   "schema": "qrscan-http-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "9b4e01768701c0444f200a28cdd317be475ae692"
+    "revision": "9160d3afe409bab1c00b867567f53bcedf1baa50"
   },
   "files": {
     ".do/deploy.template.yaml": "bd3ff0f33dd1df634362957d31bea3b19e4e54b2322c01cbd899b89b20165421",
     ".dockerignore": "4bbfd46d0d8eac20ad67bb58205f37615347d076ef8691ec913415cadbe34e6f",
     ".github/workflows/test.yml": "b452c4e3cb8707b87545045693c6ae4abaf996a96abf4483734f85c3598707aa",
-    "Dockerfile": "93f8d53a68923e20d16667bb68471e98e165d77faed1fac1edce4a40fb39c58a",
+    "Dockerfile": "f3b81928c5114e07e40700b0e1ed144602cadca80579acad1b0517c2ccac1895",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
     "LICENSE-NOTES.md": "6846611953bcf93d9d11ef54c4dc2f9b389fa4fb5d978dc60741599939922090",
-    "README.md": "a9c0442b23ed2405337d38bc33b7a5d27ca3426cd96d8ff36f366a59722e97fa",
+    "README.md": "6ee9c5f25258561c8dc02436ecd669a1b6f7ed8bf2b6a45e1fc25bb2cad50dc4",
     "licenses/engine-0.12.0/LICENSE-APACHE-2.0": "865b180617725f20be71aa305e82efaa8e56b3c6936d68089bc63cf91cb23087",
     "licenses/engine-0.12.0/THIRD-PARTY.md": "542c2d99262bf4215de4de3d7e1a6e8b065b934b61ccb650dd82d2c4f96a71ab",
     "media/scan-report.png": "d6b2fd321ed11e5cfa3b1deb790018d6e88df3c57ac4f9262dc08f48415c4594",
     "media/upload-page.png": "77ca494ee1224accc6cc30427754b94c60bf30efea8ebf1e643afd48fed3922c",
-    "package-lock.json": "9b4d7c561a2bd78e1d6dc8e624fb97aeecbd812cf369a07b061d5f5132d4595b",
-    "package.json": "d099b0809c2fb009b89ee445b783190a1e96ebf6b8cc4768adde2c56322ed1c7",
+    "package-lock.json": "a74ac36eb1b0f1354d128d5d8f8d908ad615b9578bab225f29f3a5d3f4f569c1",
+    "package.json": "c52a66ea661901bdd8af075db4514d5a2c76473c7949d147c31d1b42eae9148e",
     "render.yaml": "e8dac8160932358bb338bd53a1c97248b14e469658f7ec6e9ae90482e2e27956",
-    "server.mjs": "be8393d36ed8ca5d7eeb62eb45eddae835ff390b85fc553c7ffc88870e3f1ef4",
-    "test/consumer.mjs": "ee5cf8f34e7edc25db116ff21b13355d6f682b48974461b00a560864cab74066",
+    "server.mjs": "5ecc98bf3b1d40ece68d7ec45891445c01d9e6ac3c0c5a92297cbdee2c3983c1",
+    "test/consumer.mjs": "665208c6039eecce3011529979bddfb79f671da189881e055a6c7e3a80eef103",
     "test/fixtures/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
-    "test/server.test.mjs": "5b61e3ba9a1cb6e9a87f46c18baa5546902d09d882630b3ddf155024a63e85f0"
+    "test/server.test.mjs": "8b895429dcbe015306bdc9dc4f72220f47d98b8dc569e5a787747c435762f841"
   }
 }
